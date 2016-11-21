@@ -1,0 +1,10 @@
+SCALA_HOME=~/work/bin/scala-2.9.1.final
+export SCALA_HOME
+MANPATH=/opt/local/share/man:$MANPATH
+export MANPATH
+PATH="/Library/Frameworks/Python.framework/Versions/Current/bin:${PATH}"
+export PATH
+
+PATH="/Library/Frameworks/Python.framework/Versions/2.7/bin:${PATH}"
+export PATH
+
