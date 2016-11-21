@@ -1,6 +1,0 @@
-export VISUAL='mvim -f --nomru -c "au VimLeave * !open -a Terminal"'
-export PATH=/usr/local/bin:$PATH:/opt/local/bin:/opt/local/sbin:/usr/local/git/bin:/Applications/Wine/.wine/bin:/usr/local/sbin:/Library/Frameworks/R.framework/Resources
-export JAVA_HOME=`/usr/libexec/java_home`
-alias tvim='open -a MacVim'
-export DYLD_LIBRARY_PATH=${JAVA_HOME}/jre/lib/server
-source /usr/local/opt/modules/Modules/init/bash
